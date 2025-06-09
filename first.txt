@@ -1,1 +1,6 @@
-This is my first project to create data store in local desktop
+This is my first project to create data store in local desktop.
+
+An Azure Data Factory account
+A data factory that contains a pipeline with one copy activity
+An Azure Blob Storage account with moviesDB2.csv uploaded into an input folder as a source
+A linked service to connect the data factory to Blob Storage
